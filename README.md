@@ -10,11 +10,13 @@ Chrome Tabs seamlessly integreate into the Taskbar, and everything is in a harmo
 
 ## System Requirements
 
-| Requirement            | Minimum                | Recommended                     |
-|------------------------|-------------------------|---------------------------------|
-| **Processor**          | Intel Core 2 Duo        | Any New Intel Chip               |
-| **Graphics**           | Integrated Graphics     | Intel UHD / Iris XE Graphics (preferred: dedicated GPU) |
-| **RAM**                | 2 GB                    | 8 GB                            |
-| **Storage**            | 8 GB HDD                | 32 GB SSD                        |
- 
+| Requirement            | Minimum                              | Recommended                             |
+|------------------------|--------------------------------------|-----------------------------------------|
+| **Processor**          | Intel Core i3 or AMD Ryzen 3         | Intel Core i5 or AMD Ryzen 5 or better |
+| **Graphics**           | Integrated Graphics with Vulkan support | Dedicated GPU with Vulkan support, 4 GB VRAM or more |
+| **RAM**                | 4 GB                                 | 8 GB                                   |
+| **Storage**            | 16 GB SSD or HDD                     | 64 GB SSD or larger                     |
+| **Display Resolution** | 1366 x 768                           | 1920 x 1080 or higher                   |
+| **Internet**           | Required for updates and online features | Stable high-speed internet connection for optimal performance |
+
 
