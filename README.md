@@ -19,35 +19,11 @@ ScholarOS is designed to enhance productivity in educational settings by streaml
 | **Requirement**         | **Minimum**                                     | **Recommended**                              |
 |-------------------------|-------------------------------------------------|----------------------------------------------|
 | **Processor**           | Dual-core CPU (e.g., Intel Core i3 or AMD Ryzen 3) | Quad-core CPU (e.g., Intel Core i5 or AMD Ryzen 5) |
-| **Graphics**            | Integrated Graphics with Vulkan support        | Dedicated GPU with Vulkan support, 4 GB VRAM or more |
+| **Graphics**            | Integrated Graphics with Vulkan support        | Dedicated GPU with Vulkan support, 2 GB VRAM or more |
 | **RAM**                 | 4 GB                                            | 8 GB                                         |
 | **Storage**             | 16 GB SSD or HDD                                | 32 GB SSD or larger                          |
 | **Display Resolution**  | 1366 x 768                                      | 1920 x 1080 or higher                        |
 | **Internet**            | Required for updates, system management, and online features | Stable high-speed internet connection for optimal performance |
 
-### Detailed Requirements for System Administrators:
-
-- **Processor**:
-  - **Minimum**: A dual-core CPU, such as Intel Core i3 or AMD Ryzen 3, is required to ensure basic functionality and system responsiveness in educational environments.
-  - **Recommended**: A quad-core CPU, such as Intel Core i5 or AMD Ryzen 5, provides enhanced performance, supporting more demanding applications and multitasking scenarios.
-
-- **Graphics**:
-  - **Minimum**: Integrated graphics with Vulkan support are necessary to utilize the advanced graphical features of ScholarOS effectively.
-  - **Recommended**: A dedicated GPU with Vulkan support and at least 4 GB of VRAM is ideal for smoother performance and better handling of graphic-intensive tasks.
-
-- **RAM**:
-  - **Minimum**: 4 GB of RAM is adequate for basic operations and moderate multitasking. However, performance may be constrained with numerous simultaneous applications.
-  - **Recommended**: 8 GB of RAM ensures a more responsive experience, accommodating heavier usage and multiple applications running concurrently.
-
-- **Storage**:
-  - **Minimum**: 16 GB of SSD or HDD storage is necessary for installation and basic use. Administrators should anticipate additional storage needs for updates and educational software.
-  - **Recommended**: 32 GB SSD or larger provides ample space for the operating system, applications, and user data, reducing the need for frequent upgrades.
-
-- **Display Resolution**:
-  - **Minimum**: 1366 x 768 resolution for basic visual clarity.
-  - **Recommended**: 1920 x 1080 or higher for improved visual detail and additional screen real estate, enhancing the usability of educational tools and resources.
-
-- **Internet**:
-  - **Required**: A reliable internet connection is essential for system updates, remote management, and accessing online educational resources. A high-speed connection is recommended to support optimal performance and user experience.
 
 ScholarOS is designed to support the needs of educational institutions by offering a stable, user-friendly environment that simplifies system administration and enhances the learning experience for students and staff alike.
